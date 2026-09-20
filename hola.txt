@@ -1,1 +1,2 @@
 Mi primera práctica de Git y GitHub
+Estoy aprendiendo Git en 2º DAW
